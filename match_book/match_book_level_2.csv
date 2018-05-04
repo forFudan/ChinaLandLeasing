@@ -1,0 +1,345 @@
+﻿ID_1,NAME_1,ID_2,NAME_2,NAME_2_CHINESE
+1,Anhui,1,Anqing,安庆市
+1,Anhui,2,Bengbu,蚌埠市
+1,Anhui,3,Bozhou,亳州市
+1,Anhui,4,Chaohu,巢湖市
+1,Anhui,5,Chizhou,池州市
+1,Anhui,6,Chuzhou,滁州市
+1,Anhui,7,Fuyang,阜阳市
+1,Anhui,8,Hefei,合肥市
+1,Anhui,9,Huaibei,淮北市
+1,Anhui,10,Huainan,淮南市
+1,Anhui,11,Huangshan,黄山市
+1,Anhui,12,Lu'an,六安市
+1,Anhui,13,Ma'anshan,马鞍山市
+1,Anhui,14,Suzhou,宿州市
+1,Anhui,15,Tongling,铜陵市
+1,Anhui,16,Wuhu,芜湖市
+1,Anhui,17,Xuancheng,宣城市
+2,Beijing,18,Beijing,北京
+3,Chongqing,19,Chongqing,重庆
+4,Fujian,20,Fuzhou,福州市
+4,Fujian,21,Longyan,龙岩市
+4,Fujian,22,Nanping,南平市
+4,Fujian,23,Ningde,宁德市
+4,Fujian,24,Putian,莆田市
+4,Fujian,25,Quanzhou,泉州市
+4,Fujian,26,Sanming,三明市
+4,Fujian,27,Xiamen,厦门市
+4,Fujian,28,Zhangzhou,漳州市
+5,Gansu,29,Baiyin,白银市
+5,Gansu,30,Dingxi,定西市
+5,Gansu,31,Gannan Tibetan,甘南藏族自治州
+5,Gansu,32,Jiayuguan,嘉峪关市
+5,Gansu,33,Jinchang,金昌市
+5,Gansu,34,Jiuquan,酒泉市
+5,Gansu,35,Lanzhou,兰州市
+5,Gansu,36,Linxia Hui,临夏回族自治州
+5,Gansu,37,Longnan,陇南市
+5,Gansu,38,Pingliang,平凉市
+5,Gansu,39,Qingyang,庆阳市
+5,Gansu,40,Tianshui,天水市
+5,Gansu,41,Wuwei,武威市
+5,Gansu,42,Zhangye,张掖市
+6,Guangdong,43,Chaozhou,潮州市
+6,Guangdong,44,Dongguan,东莞市
+6,Guangdong,45,Foshan,佛山市
+6,Guangdong,46,Guangzhou,广州市
+6,Guangdong,47,Heyuan,河源市
+6,Guangdong,48,Huizhou,惠州市
+6,Guangdong,49,Jiangmen,江门市
+6,Guangdong,50,Jieyang,揭阳市
+6,Guangdong,51,Maoming,茂名市
+6,Guangdong,52,Meizhou,梅州市
+6,Guangdong,53,Qingyuan,清远市
+6,Guangdong,54,Shantou,汕头市
+6,Guangdong,55,Shanwei,汕尾市
+6,Guangdong,56,Shaoguan,韶关市
+6,Guangdong,57,Shenzhen,深圳市
+6,Guangdong,58,Yangjiang,阳江市
+6,Guangdong,59,Yunfu,云浮市
+6,Guangdong,60,Zhanjiang,湛江市
+6,Guangdong,61,Zhaoqing,肇庆市
+6,Guangdong,62,Zhongshan,中山市
+6,Guangdong,63,Zhuhai,珠海市
+7,Guangxi,64,Baise,百色市
+7,Guangxi,65,Beihai,北海市
+7,Guangxi,66,Chongzuo,崇左市
+7,Guangxi,67,Fangchenggang,防城港市
+7,Guangxi,68,Guigang,贵港市
+7,Guangxi,69,Guilin,桂林市
+7,Guangxi,70,Hechi,河池市
+7,Guangxi,71,Hezhou,贺州市
+7,Guangxi,72,Laibin,来宾市
+7,Guangxi,73,Liuzhou,柳州市
+7,Guangxi,74,Nanning,南宁市
+7,Guangxi,75,Qinzhou,钦州市
+7,Guangxi,76,Wuzhou,梧州市
+7,Guangxi,77,Yulin,玉林市
+8,Guizhou,78,Anshun,安顺市
+8,Guizhou,79,Bijie,毕节地区
+8,Guizhou,80,Guiyang,贵阳市
+8,Guizhou,81,Liupanshui,六盘水市
+8,Guizhou,82,Qiandongnan Miao and Dong,黔东南苗族侗族自治州
+8,Guizhou,83,Qiannan Buyei and Miao,黔南布依族苗族自治州
+8,Guizhou,84,Qianxinan Buyei and Miao,黔西南布依族苗族自治州
+8,Guizhou,85,Tongren,铜仁地区
+8,Guizhou,86,Zunyi,遵义市
+9,Hainan,87,Haikou,海口市
+9,Hainan,88,Hainan,海南
+9,Hainan,89,Sanya,三亚市
+10,Hebei,90,Baoding,保定市
+10,Hebei,91,Cangzhou,沧州市
+10,Hebei,92,Chengde,承德市
+10,Hebei,93,Handan,邯郸市
+10,Hebei,94,Hengshui,衡水市
+10,Hebei,95,Langfang,廊坊市
+10,Hebei,96,Qinhuangdao,秦皇岛市
+10,Hebei,97,Shijiazhuang,石家庄市
+10,Hebei,98,Tangshan,唐山市
+10,Hebei,99,Xingtai,邢台市
+10,Hebei,100,Zhangjiakou,张家口市
+11,Heilongjiang,101,Daqing,大庆市
+11,Heilongjiang,102,Daxing'anling,大兴安岭地区
+11,Heilongjiang,103,Harbin,哈尔滨市
+11,Heilongjiang,104,Hegang,鹤岗市
+11,Heilongjiang,105,Heihe,黑河市
+11,Heilongjiang,106,Jiamusi,佳木斯市
+11,Heilongjiang,107,Jixi,鸡西市
+11,Heilongjiang,108,Mudanjiang,牡丹江市
+11,Heilongjiang,109,Qiqihar,齐齐哈尔市
+11,Heilongjiang,110,Qitaihe,七台河市
+11,Heilongjiang,111,Shuangyashan,双鸭山市
+11,Heilongjiang,112,Suihua,绥化市
+11,Heilongjiang,113,Yichun,伊春市
+12,Henan,114,Anyang,安阳市
+12,Henan,115,Hebi,鹤壁市
+12,Henan,116,Jiaozuo,焦作市
+12,Henan,117,Jiyuan shi,济源市
+12,Henan,118,Kaifeng,开封市
+12,Henan,119,Luohe,漯河市
+12,Henan,120,Luoyang,洛阳市
+12,Henan,121,Nanyang,南阳市
+12,Henan,122,Pingdingshan,平顶山市
+12,Henan,123,Puyang,濮阳市
+12,Henan,124,Sanmenxia,三门峡市
+12,Henan,125,Shangqiu,商丘市
+12,Henan,126,Xinxiang,新乡市
+12,Henan,127,Xinyang,信阳市
+12,Henan,128,Xuchang,许昌市
+12,Henan,129,Zhengzhou,郑州市
+12,Henan,130,Zhoukou,周口市
+12,Henan,131,Zhumadian,驻马店市
+13,Hubei,132,Enshi Tujia and Miao,恩施土家族苗族自治州
+13,Hubei,133,Ezhou,鄂州市
+13,Hubei,134,Huanggang,黄冈市
+13,Hubei,135,Huangshi,黄石市
+13,Hubei,136,Jingmen,荆门市
+13,Hubei,137,Jingzhou,荆州市
+13,Hubei,138,Qianjiang,潜江市
+13,Hubei,139,Shennongjia,神农架林区
+13,Hubei,140,Shiyan,十堰市
+13,Hubei,141,Suizhou Shi,随州市
+13,Hubei,142,Tianmen,天门市
+13,Hubei,143,Wuhan,武汉市
+13,Hubei,144,Xiangfan,襄樊市
+13,Hubei,145,Xianning,咸宁市
+13,Hubei,146,Xiantao,仙桃市
+13,Hubei,147,Xiaogan,孝感市
+13,Hubei,148,Yichang,宜昌市
+14,Hunan,149,Changde,常德市
+14,Hunan,150,Changsha,長沙市
+14,Hunan,151,Chenzhou,郴州市
+14,Hunan,152,Hengyang,衡陽市
+14,Hunan,153,Huaihua,懷化市
+14,Hunan,154,Loudi,婁底市
+14,Hunan,155,Shaoyang,邵陽市
+14,Hunan,156,Xiangtan,湘潭市
+14,Hunan,157,Xiangxi Tujia and Miao,湘西土家族苗族自治州
+14,Hunan,158,Yiyang,益陽市
+14,Hunan,159,Yongzhou,永州市
+14,Hunan,160,Yueyang,岳陽市
+14,Hunan,161,Zhangjiajie,張家界市
+14,Hunan,162,Zhuzhou,株洲市
+15,Jiangsu,163,Changzhou,常州市
+15,Jiangsu,164,Huai'an,淮安市
+15,Jiangsu,165,Lianyungang,连云港市
+15,Jiangsu,166,Nanjing,南京市
+15,Jiangsu,167,Nantong,南通市
+15,Jiangsu,168,Suqian,宿迁市
+15,Jiangsu,169,Suzhou,苏州市
+15,Jiangsu,170,Taizhou,泰州市
+15,Jiangsu,171,Wuxi,无锡市
+15,Jiangsu,172,Xuzhou,徐州市
+15,Jiangsu,173,Yancheng,盐城市
+15,Jiangsu,174,Yangzhou,扬州市
+15,Jiangsu,175,Zhenjiang,镇江市
+16,Jiangxi,176,Fuzhou,抚州市
+16,Jiangxi,177,Ganzhou,赣州市
+16,Jiangxi,178,Ji'an,吉安市
+16,Jiangxi,179,Jingdezhen,景德镇市
+16,Jiangxi,180,Jiujiang,九江市
+16,Jiangxi,181,Nanchang,南昌市
+16,Jiangxi,182,Pingxiang,萍乡市
+16,Jiangxi,183,Shangrao,上饶市
+16,Jiangxi,184,Xinyu,新余市
+16,Jiangxi,185,Yichun,宜春市
+16,Jiangxi,186,Yingtan,鹰潭市
+17,Jilin,187,Baicheng,白城市
+17,Jilin,188,Baishan,白山市
+17,Jilin,189,Changchun,长春市
+17,Jilin,190,Jilin,吉林市
+17,Jilin,191,Liaoyuan,辽源市
+17,Jilin,192,Siping,四平市
+17,Jilin,193,Songyuan,松原市
+17,Jilin,194,Tonghua,通化市
+17,Jilin,195,Yanbian Korean,延边朝鲜族自治州
+18,Liaoning,196,Anshan,鞍山市
+18,Liaoning,197,Benxi,本溪市
+18,Liaoning,198,Chaoyang,朝阳市
+18,Liaoning,199,Dalian,大连市
+18,Liaoning,200,Dandong,丹东市
+18,Liaoning,201,Fushun,抚顺市
+18,Liaoning,202,Fuxin,阜新市
+18,Liaoning,203,Huludao,葫芦岛市
+18,Liaoning,204,Jinzhou,锦州市
+18,Liaoning,205,Liaoyang,辽阳市
+18,Liaoning,206,Panjin,盘锦市
+18,Liaoning,207,Shenyang,沈阳市
+18,Liaoning,208,Tieling,铁岭市
+19,Nei Mongol,209,Alxa,阿拉善盟
+19,Nei Mongol,210,Baotou,包头市
+19,Nei Mongol,211,Baynnur,巴彦淖尔市
+19,Nei Mongol,212,Chifeng,赤峰市
+19,Nei Mongol,213,Hohhot,呼和浩特市
+19,Nei Mongol,214,Hulunbuir,呼伦贝尔市
+19,Nei Mongol,215,Ordos,鄂尔多斯市
+19,Nei Mongol,216,Tongliao,通辽市
+19,Nei Mongol,217,Ulaan Chab,乌兰察布市
+19,Nei Mongol,218,Wuhai,乌海市
+19,Nei Mongol,219,Xilin Gol,锡林郭勒盟
+19,Nei Mongol,220,Xing'an,兴安盟
+20,Ningxia Hui,221,Guyuan,固原市
+20,Ningxia Hui,222,Shizuishan,石嘴山市
+20,Ningxia Hui,223,Wuzhong,吴忠市
+20,Ningxia Hui,224,Yinchuan,银川市
+20,Ningxia Hui,225,Zhongwei,中卫市
+21,Qinghai,226,Golog Tibetan,果洛藏族自治州
+21,Qinghai,227,Gyêgu Tibetan,玉树藏族自治州
+21,Qinghai,228,Haibei Tibetan,海北藏族自治州
+21,Qinghai,229,Haidong,海东地区
+21,Qinghai,230,Hainan Tibetan,海南藏族自治州
+21,Qinghai,231,Haixi Mongol and Tibetan,海西蒙古族藏族自治州
+21,Qinghai,232,Huangnan Tibetan,黄南藏族自治州
+21,Qinghai,233,Xining,西宁市
+22,Shaanxi,234,Ankang,安康市
+22,Shaanxi,235,Baoji,宝鸡市
+22,Shaanxi,236,Hanzhong,汉中市
+22,Shaanxi,237,Shangluo,商洛市
+22,Shaanxi,238,Tongchuan,铜川市
+22,Shaanxi,239,Weinan,渭南市
+22,Shaanxi,240,Xi'an,西安市
+22,Shaanxi,241,Xianyang,咸阳市
+22,Shaanxi,242,Yan'an,延安市
+22,Shaanxi,243,Yulin,榆林市
+23,Shandong,244,Binzhou,滨州
+23,Shandong,245,Dezhou,德州市
+23,Shandong,246,Dongying,东营市
+23,Shandong,247,Heze,菏泽市
+23,Shandong,248,Jinan,济南市
+23,Shandong,249,Jining,济宁市
+23,Shandong,250,Laiwu,莱芜市
+23,Shandong,251,Liaocheng,聊城市
+23,Shandong,252,Linyi,临沂市
+23,Shandong,253,Qingdao,青岛市
+23,Shandong,254,Rizhao,日照市
+23,Shandong,255,Tai'an,泰安市
+23,Shandong,256,Weifang,潍坊市
+23,Shandong,257,Weihai,威海市
+23,Shandong,258,Yantai,烟台市
+23,Shandong,259,Zaozhuang,枣庄市
+23,Shandong,260,Zibo,淄博市
+24,Shanghai,261,Shanghai,上海
+25,Shanxi,262,Changzhi,长治市
+25,Shanxi,263,Datong,大同市
+25,Shanxi,264,Jincheng,晋城市
+25,Shanxi,265,Jinzhong,晋中市
+25,Shanxi,266,Linfen,临汾市
+25,Shanxi,267,Luliang,吕梁市
+25,Shanxi,268,Shuozhou,朔州市
+25,Shanxi,269,Taiyuan,太原市
+25,Shanxi,270,Xinzhou,忻州市
+25,Shanxi,271,Yangquan,阳泉市
+25,Shanxi,272,Yuncheng,运城县
+26,Sichuan,273,Bazhong,巴中市
+26,Sichuan,274,Chengdu,成都市
+26,Sichuan,275,Dazhou,达州市
+26,Sichuan,276,Deyang,德阳市
+26,Sichuan,277,Garzê Tibetan,甘孜藏族自治州
+26,Sichuan,278,Guang'an,广安市
+26,Sichuan,279,Guangyuan,广元市
+26,Sichuan,280,Leshan,乐山市
+26,Sichuan,281,Liangshan Yi,凉山彝族自治州
+26,Sichuan,282,Luzhou,泸州市
+26,Sichuan,283,Meishan,眉山市
+26,Sichuan,284,Mianyang,绵阳市
+26,Sichuan,285,Nanchong,南充市
+26,Sichuan,286,Neijiang]],内江市
+26,Sichuan,287,Neijiang,内江市
+26,Sichuan,288,Ngawa Tibetan and Qiang,阿坝藏族羌族自治州
+26,Sichuan,289,Panzhihua,攀枝花市
+26,Sichuan,290,Suining,遂宁市
+26,Sichuan,291,Ya'an,雅安市
+26,Sichuan,292,Yibin,宜宾市
+26,Sichuan,293,Zigong,自贡市
+26,Sichuan,294,Ziyang,资阳市
+27,Tianjin,295,Tianjin,天津
+28,Xinjiang Uygur,296,Aksu,阿克苏地区
+28,Xinjiang Uygur,297,Altay,阿勒泰地区
+28,Xinjiang Uygur,298,Ürümqi,乌鲁木齐市
+28,Xinjiang Uygur,299,Börtala Mongol,博尔塔拉蒙古自治州
+28,Xinjiang Uygur,300,Bayin'gholin Mongol,巴音郭愣蒙古自治州
+28,Xinjiang Uygur,301,Changji Hui,昌吉回族自治州
+28,Xinjiang Uygur,302,Hami,哈密地区
+28,Xinjiang Uygur,303,Ili Kazakh,伊犁哈萨克自治州
+28,Xinjiang Uygur,304,Karamay,克拉玛依市
+28,Xinjiang Uygur,305,Kashgar,喀什地区
+28,Xinjiang Uygur,306,Khotan,和田地区
+28,Xinjiang Uygur,307,Kizilsu Kirghiz,克孜勒苏柯尔克孜自治州
+28,Xinjiang Uygur,308,Shihezi,石河子市
+28,Xinjiang Uygur,309,Tacheng,塔城地区
+28,Xinjiang Uygur,310,Turfan,吐鲁番地区
+29,Xizang,311,Chamdo,昌都地区
+29,Xizang,312,Lhasa,拉萨市
+29,Xizang,313,Nagchu,那曲地区
+29,Xizang,314,Ngari,阿里地区
+29,Xizang,315,Nyingtri,林芝地区
+29,Xizang,316,Shannan,山南地区
+29,Xizang,317,Shigatse,日喀则地区
+30,Yunnan,318,Baoshan,保山市
+30,Yunnan,319,Chuxiong Yi,楚雄彝族自治州
+30,Yunnan,320,Dêqên Tibetan,迪庆藏族自治州
+30,Yunnan,321,Dali Bai,大理白族自治州
+30,Yunnan,322,Dehong Dai and Jingpo,德宏傣族景颇族自治州
+30,Yunnan,323,Honghe Hani and Yi,红河哈尼族彝族自治州
+30,Yunnan,324,Kunming,昆明市
+30,Yunnan,325,Lijiang,丽江市
+30,Yunnan,326,Lincang,临沧市
+30,Yunnan,327,Nujiang Lisu,怒江傈僳族自治州
+30,Yunnan,328,Pu'er,普洱市
+30,Yunnan,329,Qujing,曲靖市
+30,Yunnan,330,Wenshan Zhuang and Miao,文山壮族苗族自治州
+30,Yunnan,331,Xishuangbanna Dai,西双版纳傣族自治州
+30,Yunnan,332,Yuxi,玉溪市
+30,Yunnan,333,Zhaotong,昭通市
+31,Zhejiang,334,Hangzhou,杭州市
+31,Zhejiang,335,Huzhou,湖州市
+31,Zhejiang,336,Jiaxing,嘉兴市
+31,Zhejiang,337,Jinhua,金华市
+31,Zhejiang,338,Lishui,丽水市
+31,Zhejiang,339,Ningbo,宁波市
+31,Zhejiang,340,Quzhou,衢州市
+31,Zhejiang,341,Shaoxing,绍兴市
+31,Zhejiang,342,Taizhou,台州市
+31,Zhejiang,343,Wenzhou,温州市
+31,Zhejiang,344,Zhoushan,舟山市
